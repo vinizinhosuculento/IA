@@ -40,9 +40,9 @@ const perguntas = [
             "Alternativa 2"
         ]
     }
-];
-let atual = 0;
-let perguntaAtual;
+];  
+    let atual = 0;
+    let perguntaAtual;
 
 function mostraPergunta() {
     perguntaAtual = perguntas[atual];
