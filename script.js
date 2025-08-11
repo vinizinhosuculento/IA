@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "/",
+        enunciado: "Assim que saiu de casa você percebe que voltou para o passado, com carros coloridos e antigos e pessoas algres indo trabalhar com roupas fora de época, qual o primeiro pensamento? ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Oque aconteceu com a minha vida!?",
+                afirmacao: "No início ficou com medo, não sabia como seria sua vida daqui pra frente. "
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Sempre quis viver nessa época!, nasci na época errada."
             }
         ]
     },
